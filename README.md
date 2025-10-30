@@ -31,16 +31,14 @@ You don’t need to be an expert at artificial intelligence to create an awesome
 
 ### Documentation
 
+Check out our [documentation](docs/README.md) to get started.
 
-### How does `ai-chatbot-framework` work under the hood?
+**How does `ai-chatbot-framework` work under the hood?**
 
 Check out this interactive walkthrough of the `ai-chatbot-framework` codebase on CodeCanvas [here](https://www.code-canvas.com/?session=unauthenticatedGithub&repo=ai-chatbot-framework&owner=alfredfrancis&branch=master&OnboardingTutorial=true).
 
-To refine existing dataflow simulation or create new ones, follow the quick tutorial [here](https://docs.code-canvas.com/updating-diagram).
+<img width="1692" height="891" alt="image" src="https://github.com/user-attachments/assets/7e69567f-8523-49c8-a94d-2108aa38b3b8" />
 
-<img width="1916" alt="CodeCanvas Screenshot" src="https://codecanvas-media-public.s3.amazonaws.com/images/codecanvas-readme-screenshot.png" />
-
-Check out our [documentation](docs/README.md) to get started.
 
 ### Tech Stack
 
